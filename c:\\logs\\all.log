@@ -1,0 +1,34 @@
+2024-05-29 18:01:16,529 INFO log4netAdvanced.Person - Created a person [Astha Sinha] at 5/29/2024 6:01:16 PM
+2024-05-29 18:01:16,545 INFO log4netAdvanced.Person - Created a person [Shubhangi Srivastava] at 5/29/2024 6:01:16 PM
+2024-05-29 18:01:16,546 DEBUG log4netAdvanced.Car - Created a car [Tesla Model S (2020), owned by [Astha Sinha]] at 5/29/2024 6:01:16 PM
+2024-05-29 18:01:16,546 DEBUG log4netAdvanced.Car - Created a car [Tesla Model X (2020), owned by [Shubhangi Srivastava]] at 5/29/2024 6:01:16 PM
+2024-05-29 18:01:16,546 DEBUG log4netAdvanced.Program - Some debug log
+2024-05-29 18:01:16,546 INFO log4netAdvanced.Program - Person1: [Astha Sinha]
+2024-05-29 18:01:16,546 INFO log4netAdvanced.Program - Car2: [Tesla Model X (2020), owned by [Shubhangi Srivastava]]
+2024-05-29 18:01:16,546 WARN log4netAdvanced.Program - Warning accrued at 5/29/2024 6:01:16 PM
+2024-05-29 18:01:16,562 ERROR log4netAdvanced.Program - Error accrued at 5/29/2024 6:01:16 PM
+2024-05-29 18:01:16,562 FATAL log4netAdvanced.Program - Serious problem with car [Tesla Model S (2020), owned by [Astha Sinha]] accrued at 5/29/2024 6:01:16 PM
+2024-05-29 18:17:28,703 INFO log4netAdvanced.Person - Created a person [Astha Sinha] at 5/29/2024 6:17:28 PM
+2024-05-29 18:17:28,719 INFO log4netAdvanced.Person - Created a person [Shubhangi Srivastava] at 5/29/2024 6:17:28 PM
+2024-05-29 18:17:28,719 INFO log4netAdvanced.Person - Created a person [Divyanshu Kumar] at 5/29/2024 6:17:28 PM
+2024-05-29 18:17:28,719 DEBUG log4netAdvanced.Car - Created a car [Tesla Model S (2020), owned by [Astha Sinha]] at 5/29/2024 6:17:28 PM
+2024-05-29 18:17:28,720 DEBUG log4netAdvanced.Car - Created a car [Tesla Model X (2020), owned by [Shubhangi Srivastava]] at 5/29/2024 6:17:28 PM
+2024-05-29 18:17:28,720 DEBUG log4netAdvanced.Car - Created a car [Tesla Model S (2020), owned by [Divyanshu Kumar]] at 5/29/2024 6:17:28 PM
+2024-05-29 18:17:28,720 DEBUG log4netAdvanced.Program - Some debug log
+2024-05-29 18:17:28,720 INFO log4netAdvanced.Program - Person1: [Astha Sinha]
+2024-05-29 18:17:28,720 INFO log4netAdvanced.Program - Car2: [Tesla Model X (2020), owned by [Shubhangi Srivastava]]
+2024-05-29 18:17:28,720 WARN log4netAdvanced.Program - Warning accrued at 5/29/2024 6:17:28 PM
+2024-05-29 18:17:28,734 ERROR log4netAdvanced.Program - Error accrued at 5/29/2024 6:17:28 PM
+2024-05-29 18:17:28,734 FATAL log4netAdvanced.Program - Serious problem with car [Tesla Model S (2020), owned by [Astha Sinha]] accrued at 5/29/2024 6:17:28 PM
+2024-06-01 13:12:41,120 INFO log4netAdvanced.Person - Created a person [Astha Sinha] at 6/1/2024 1:12:41 PM
+2024-06-01 13:12:41,137 INFO log4netAdvanced.Person - Created a person [Shubhangi Srivastava] at 6/1/2024 1:12:41 PM
+2024-06-01 13:12:41,137 INFO log4netAdvanced.Person - Created a person [Divyanshu Kumar] at 6/1/2024 1:12:41 PM
+2024-06-01 13:12:41,138 DEBUG log4netAdvanced.Car - Created a car [Tesla Model S (2020), owned by [Astha Sinha]] at 6/1/2024 1:12:41 PM
+2024-06-01 13:12:41,138 DEBUG log4netAdvanced.Car - Created a car [Tesla Model X (2020), owned by [Shubhangi Srivastava]] at 6/1/2024 1:12:41 PM
+2024-06-01 13:12:41,138 DEBUG log4netAdvanced.Car - Created a car [Tesla Model S (2020), owned by [Divyanshu Kumar]] at 6/1/2024 1:12:41 PM
+2024-06-01 13:12:41,138 DEBUG log4netAdvanced.Program - Some debug log
+2024-06-01 13:12:41,138 INFO log4netAdvanced.Program - Person1: [Astha Sinha]
+2024-06-01 13:12:41,138 INFO log4netAdvanced.Program - Car2: [Tesla Model X (2020), owned by [Shubhangi Srivastava]]
+2024-06-01 13:12:41,138 WARN log4netAdvanced.Program - Warning accrued at 6/1/2024 1:12:41 PM
+2024-06-01 13:12:41,157 ERROR log4netAdvanced.Program - Error accrued at 6/1/2024 1:12:41 PM
+2024-06-01 13:12:41,158 FATAL log4netAdvanced.Program - Serious problem with car [Tesla Model S (2020), owned by [Astha Sinha]] accrued at 6/1/2024 1:12:41 PM
